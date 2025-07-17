@@ -1,2 +1,2 @@
-# DE---Hexaware
+# DE-Hexaware
 Data Engineering Assignments
